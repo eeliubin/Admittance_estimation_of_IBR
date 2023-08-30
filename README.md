@@ -4,6 +4,7 @@ This repository contains the MATLAB codes used to reproduce the results in the p
 
 W. Zhou, B. Liu, N. Mohammed and B. Bahrani, "An Efficient Method to Estimate Admittance of Black-boxed Inverter-based Resources for Varying Operating Points", 10.36227/techrxiv.24056100.
 
+Run Admittance_prediction_main_function.m file in the Matlab environment.  The available admittance dataset can be replaced by the user's own data.  
 
 This source code is distributed in the hope that it will be useful, but without any warranty.
 
