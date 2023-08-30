@@ -1,4 +1,4 @@
-# Admittance_estimation_of_IBR
+# Admittance estimation of IBR
 
 This repository contains the MATLAB codes used to reproduce the results in the preprint:
 
